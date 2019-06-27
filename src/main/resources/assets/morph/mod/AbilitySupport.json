@@ -1,7 +1,7 @@
 {
   "am2.bosses.EntityAirGuardian": [
     "hostile",
-    "fly|false"
+    "fly|true"
   ],
   "am2.bosses.EntityArcaneGuardian": [
     "hostile"
